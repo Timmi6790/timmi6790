@@ -42,6 +42,20 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=timmi6790&show_icons=true&locale=en&count_private=true&theme=transparent" alt="timmi6790" /></p>
 <p>
 <!--START_SECTION:waka-->
+
+```text
+From: 09 February 2023 - To: 16 February 2023
+
+Total Time: 24 hrs 56 mins
+
+Rust                 16 hrs 5 mins   ████████████████░░░░░░░░░   64.53 %
+Docker               4 hrs 18 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.26 %
+YAML                 2 hrs 9 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
+Markdown             59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+TOML                 51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+JSON                 18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+```
+
 <!--END_SECTION:waka-->
 </p>
 </p>
