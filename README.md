@@ -36,10 +36,11 @@
 ![Eclipse](http://img.shields.io/badge/-Eclipse-white?style=flat-square&logo=eclipse&logoColor=black)
 
 ### ⭐️ Stats
-<p align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=timmi6790&show_icons=true&locale=en&layout=compact&count_private=true&theme=transparent" alt="timmi6790" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=timmi6790&show_icons=true&locale=en&count_private=true&theme=transparent" alt="timmi6790" /></p>
+
+### ⏰ Weekly Stats
 <p>
 <!--START_SECTION:waka-->
 
@@ -57,5 +58,4 @@ JSON                 18 mins         ▒░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-</p>
 </p>
