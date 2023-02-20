@@ -45,16 +45,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 February 2023 - To: 17 February 2023
+From: 11 February 2023 - To: 18 February 2023
 
-Total Time: 27 hrs 39 mins
+Total Time: 28 hrs 31 mins
 
-Rust                   16 hrs 5 mins   ██████████████▓░░░░░░░░░░   58.21 %
-YAML                   4 hrs 33 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.48 %
-Docker                 4 hrs 18 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.57 %
-Markdown               1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
-TOML                   51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
-JSON                   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Rust                   12 hrs 41 mins  ███████████░░░░░░░░░░░░░░   44.50 %
+YAML                   7 hrs 27 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.16 %
+Docker                 4 hrs 17 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 %
+Markdown               2 hrs 41 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 %
+TOML                   43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+JSON                   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
 ```
 
 <!--END_SECTION:waka-->
