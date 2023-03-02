@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tim</h1>
 
-- 🌱 I’m currently learning **rust**
+- 🌱 I’m currently learning **rust**, **next.js**
 - 👨‍💻 All of my projects are available at [https://github.com/Timmi6790](https://github.com/Timmi6790)
 - 💬 Ask me about **java**
 - 📫 How to reach me **contact@timmi6790.de**
@@ -34,11 +34,6 @@
 
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-white?style=flat-square&logo=intellijidea&logoColor=black)
 ![Eclipse](http://img.shields.io/badge/-Eclipse-white?style=flat-square&logo=eclipse&logoColor=black)
-
-### ⭐️ Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=timmi6790&show_icons=true&locale=en&layout=compact&count_private=true&theme=transparent" alt="timmi6790" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=timmi6790&show_icons=true&locale=en&count_private=true&theme=transparent" alt="timmi6790" /></p>
 
 ### ⏰ Weekly Stats
 <p>
