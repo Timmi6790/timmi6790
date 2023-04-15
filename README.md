@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 April 2023 - To: 12 April 2023
+From: 06 April 2023 - To: 13 April 2023
 
-Total Time: 15 hrs 35 mins
+Total Time: 17 hrs 18 mins
 
-Rust                 10 hrs 46 mins  █████████████████▒░░░░░░░   69.05 %
-YAML                 3 hrs 25 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.91 %
-Markdown             50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
-TOML                 23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-Docker               8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Rust                 13 hrs 1 min    ██████████████████▓░░░░░░   75.19 %
+YAML                 2 hrs 53 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.72 %
+Markdown             50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
+TOML                 23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+Docker               8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 GitIgnore file       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
