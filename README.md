@@ -40,13 +40,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 April 2023 - To: 22 April 2023
+From: 16 April 2023 - To: 23 April 2023
 
-Total Time: 6 hrs 14 mins
+Total Time: 5 hrs 24 mins
 
-Rust             6 hrs 11 mins   ████████████████████████▓   99.16 %
-Java             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Rust             5 hrs 21 mins   ████████████████████████▓   99.03 %
+Java             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
