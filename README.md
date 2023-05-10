@@ -40,11 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 April 2023 - To: 07 May 2023
+From: 01 May 2023 - To: 08 May 2023
 
-Total Time: 8 hrs 18 mins
+Total Time: 8 hrs 41 mins
 
-Rust   8 hrs 18 mins   █████████████████████████   100.00 %
+Rust                  7 hrs 28 mins   █████████████████████▓░░░   86.10 %
+Gradle                21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
+Properties            14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+Groovy                11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+LOMBOK_CONFIG         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
 ```
 
 <!--END_SECTION:waka-->
