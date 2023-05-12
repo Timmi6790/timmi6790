@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 May 2023 - To: 09 May 2023
+From: 03 May 2023 - To: 10 May 2023
 
-Total Time: 5 hrs 58 mins
+Total Time: 8 hrs 43 mins
 
-Rust                  4 hrs 46 mins   ████████████████████░░░░░   79.79 %
-Gradle                21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
-Properties            14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
-Groovy                11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
-LOMBOK_CONFIG         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+Java                  3 hrs           ████████▓░░░░░░░░░░░░░░░░   34.39 %
+Rust                  2 hrs 56 mins   ████████▒░░░░░░░░░░░░░░░░   33.77 %
+Kotlin                57 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.93 %
+Gradle                25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+Properties            16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
 ```
 
 <!--END_SECTION:waka-->
