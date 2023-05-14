@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 May 2023 - To: 11 May 2023
+From: 05 May 2023 - To: 12 May 2023
 
-Total Time: 13 hrs 5 mins
+Total Time: 17 hrs 41 mins
 
-Java                  7 hrs 58 mins   ███████████████▒░░░░░░░░░   60.94 %
-Rust                  2 hrs 2 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.57 %
-Kotlin                1 hr 9 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
-Gradle                25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-Properties            19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+Java                  12 hrs 6 mins   █████████████████░░░░░░░░   68.40 %
+Kotlin                2 hrs           ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
+Rust                  1 hr 19 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
+Gradle                25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+YAML                  23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
 ```
 
 <!--END_SECTION:waka-->
