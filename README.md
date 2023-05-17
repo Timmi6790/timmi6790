@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 May 2023 - To: 14 May 2023
+From: 08 May 2023 - To: 15 May 2023
 
-Total Time: 19 hrs 30 mins
+Total Time: 24 hrs 2 mins
 
-Java                  13 hrs 52 mins  █████████████████▓░░░░░░░   71.15 %
-Kotlin                2 hrs 37 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.46 %
-Gradle                25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-Rust                  25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-YAML                  23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Java                  19 hrs 19 mins  ████████████████████░░░░░   80.39 %
+Kotlin                2 hrs 47 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
+Markdown              29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+YAML                  23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+textmate              13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 ```
 
 <!--END_SECTION:waka-->
