@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 May 2023 - To: 22 May 2023
+From: 16 May 2023 - To: 23 May 2023
 
-Total Time: 5 hrs 17 mins
+Total Time: 4 hrs 37 mins
 
-Java             3 hrs 59 mins   ███████████████████░░░░░░   75.43 %
-JSON             26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
-Rust             20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
-TOML             13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
-Properties       9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+Java             3 hrs 57 mins   █████████████████████▒░░░   85.63 %
+Rust             20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
+TOML             13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+YAML             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Markdown         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
 
 <!--END_SECTION:waka-->
