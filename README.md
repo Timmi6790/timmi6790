@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 May 2023 - To: 24 May 2023
+From: 18 May 2023 - To: 25 May 2023
 
-Total Time: 8 hrs 43 mins
+Total Time: 12 hrs 11 mins
 
-Java             7 hrs 53 mins   ██████████████████████▓░░   90.29 %
-Rust             20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
-TOML             13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
-XML              7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-YAML             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Java             9 hrs 29 mins   ███████████████████▒░░░░░   77.87 %
+XML              51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
+Rust             20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+Shell Script     15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+Docker           13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
 ```
 
 <!--END_SECTION:waka-->
