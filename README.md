@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 May 2023 - To: 29 May 2023
+From: 23 May 2023 - To: 30 May 2023
 
-Total Time: 16 hrs 34 mins
+Total Time: 18 hrs 29 mins
 
-Java                  8 hrs 36 mins   █████████████░░░░░░░░░░░░   51.92 %
-Kotlin                1 hr 59 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
-YAML                  1 hr 31 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
-XML                   51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
-Docker                39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+Java                  6 hrs 58 mins   █████████▒░░░░░░░░░░░░░░░   37.75 %
+Kotlin                4 hrs 29 mins   ██████░░░░░░░░░░░░░░░░░░░   24.31 %
+YAML                  2 hrs 6 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
+XML                   51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+Docker                39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
 ```
 
 <!--END_SECTION:waka-->
