@@ -40,14 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 June 2023 - To: 19 June 2023
+From: 13 June 2023 - To: 20 June 2023
 
-Total Time: 8 hrs 53 mins
+Total Time: 13 hrs 20 mins
 
-YAML                 8 hrs 8 mins    ███████████████████████░░   91.68 %
-Markdown             43 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
-Helm TEXT template   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-GitIgnore file       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+YAML                 11 hrs 2 mins   ████████████████████▓░░░░   82.82 %
+Markdown             2 hrs 16 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.01 %
+Helm TEXT template   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Bash                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Text                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
