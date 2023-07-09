@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 June 2023 - To: 06 July 2023
+From: 30 June 2023 - To: 07 July 2023
 
-Total Time: 30 hrs 19 mins
+Total Time: 27 hrs 22 mins
 
-Java             30 hrs 2 mins   ████████████████████████▓   99.09 %
-Kotlin           14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Java             27 hrs 8 mins   ████████████████████████▓   99.17 %
+Kotlin           11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 YAML             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 textmate         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
