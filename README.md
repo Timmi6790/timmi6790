@@ -40,12 +40,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 July 2023 - To: 31 July 2023
+From: 25 July 2023 - To: 01 August 2023
 
 Total Time: 16 hrs 22 mins
 
-Java                  14 hrs 56 mins  ██████████████████████▓░░   91.20 %
-YAML                  38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+Java                  14 hrs 55 mins  ██████████████████████▓░░   91.18 %
+YAML                  38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
 Markdown              27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
 Kotlin                17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
 Gradle                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
