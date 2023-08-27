@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 August 2023 - To: 24 August 2023
+From: 18 August 2023 - To: 25 August 2023
 
-Total Time: 13 hrs 3 mins
+Total Time: 14 hrs 38 mins
 
-Java                  4 hrs 56 mins   █████████▒░░░░░░░░░░░░░░░   37.86 %
-YAML                  2 hrs 5 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.98 %
-Assembly              1 hr 29 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
-Kotlin                1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
-textmate              49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+Java                  4 hrs 56 mins   ████████▒░░░░░░░░░░░░░░░░   33.80 %
+YAML                  2 hrs 34 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.62 %
+Assembly              1 hr 56 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 %
+Kotlin                1 hr 26 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
+textmate              49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
 ```
 
 <!--END_SECTION:waka-->
