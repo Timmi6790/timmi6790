@@ -40,14 +40,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 August 2023 - To: 05 September 2023
+From: 30 August 2023 - To: 06 September 2023
 
-Total Time: 8 hrs 53 mins
+Total Time: 7 hrs 30 mins
 
-Java                  8 hrs 42 mins   ████████████████████████▒   97.78 %
-Python                8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-Kotlin                2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-Scalate Server Page   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Java                  7 hrs 21 mins   ████████████████████████▒   97.86 %
+Python                7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Kotlin                1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Scalate Server Page   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 Ezhil                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
