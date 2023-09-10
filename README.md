@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2023 - To: 07 September 2023
+From: 01 September 2023 - To: 08 September 2023
 
-Total Time: 7 hrs 58 mins
+Total Time: 9 hrs 41 mins
 
-Java                  7 hrs 22 mins   ███████████████████████░░   92.47 %
-Text                  16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
-Python                7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-GitIgnore file        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-TSQL                  2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Java                  9 hrs 10 mins   ███████████████████████▓░   94.65 %
+Text                  16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+GitIgnore file        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Kotlin                3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+TSQL                  2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
