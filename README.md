@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 September 2023 - To: 26 September 2023
+From: 20 September 2023 - To: 27 September 2023
 
-Total Time: 24 hrs 1 min
+Total Time: 27 hrs 57 mins
 
-Java             18 hrs 45 mins  ███████████████████▓░░░░░   78.07 %
-YAML             1 hr 28 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
-Markdown         58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
-Bash             55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
-Docker           27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+Java                18 hrs 52 mins  █████████████████░░░░░░░░   67.50 %
+Rust                4 hrs 9 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.87 %
+YAML                1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+Bash                55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+XML                 38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
 ```
 
 <!--END_SECTION:waka-->
