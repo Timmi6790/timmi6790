@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 September 2023 - To: 28 September 2023
+From: 22 September 2023 - To: 29 September 2023
 
-Total Time: 29 hrs 49 mins
+Total Time: 29 hrs 38 mins
 
-Java                  21 hrs 31 mins  ██████████████████░░░░░░░   72.14 %
-Rust                  4 hrs 9 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.93 %
-XML                   54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-GDScript3             48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-Kotlin                40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+Java                  20 hrs 11 mins  █████████████████░░░░░░░░   68.11 %
+Rust                  4 hrs 27 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 %
+XML                   1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+GDScript3             48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+Kotlin                40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
 ```
 
 <!--END_SECTION:waka-->
