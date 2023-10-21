@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 October 2023 - To: 18 October 2023
+From: 12 October 2023 - To: 19 October 2023
 
-Total Time: 12 hrs 28 mins
+Total Time: 14 hrs 4 mins
 
-Java              7 hrs 52 mins   ███████████████▓░░░░░░░░░   63.10 %
-Kotlin            1 hr 2 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
-Python            46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
-GitIgnore file    22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
-YAML              20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+Java              7 hrs 3 mins    ████████████▓░░░░░░░░░░░░   50.10 %
+Python            1 hr 47 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 %
+Kotlin            1 hr 35 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 %
+YAML              56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
+GitIgnore file    22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
 ```
 
 <!--END_SECTION:waka-->
