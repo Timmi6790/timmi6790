@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 October 2023 - To: 06 November 2023
+From: 31 October 2023 - To: 07 November 2023
 
-Total Time: 36 hrs 9 mins
+Total Time: 30 hrs 36 mins
 
-Java             31 hrs 30 mins  █████████████████████▓░░░   87.12 %
-XML              2 hrs 18 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
-Docker           1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
-YAML             49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-TypeScript       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Java             24 hrs 45 mins  ████████████████████▒░░░░   80.89 %
+XML              3 hrs 23 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 %
+Docker           1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
+YAML             52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+JSON             6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
