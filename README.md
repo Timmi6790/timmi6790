@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 December 2023 - To: 26 December 2023
+From: 20 December 2023 - To: 27 December 2023
 
-Total Time: 28 hrs 45 mins
+Total Time: 29 hrs 29 mins
 
-Java              25 hrs 17 mins  ██████████████████████░░░   87.98 %
-XML               1 hr 54 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
-Kotlin            24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-PlantUML file     20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-protobuf          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Java              25 hrs 45 mins  █████████████████████▓░░░   87.32 %
+XML               2 hrs 6 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
+Kotlin            24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+protobuf          21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+Protocol Buffer   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
 
 <!--END_SECTION:waka-->
