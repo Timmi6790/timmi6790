@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 January 2024 - To: 02 February 2024
+From: 27 January 2024 - To: 03 February 2024
 
-Total Time: 26 hrs 37 mins
+Total Time: 25 hrs 30 mins
 
-Java              9 hrs 26 mins   █████████░░░░░░░░░░░░░░░░   35.45 %
-Kotlin            6 hrs 49 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.67 %
-YAML              5 hrs 49 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.88 %
-TOML              1 hr 26 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
-TypeScript        1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+Java              8 hrs 1 min     ████████░░░░░░░░░░░░░░░░░   31.43 %
+Kotlin            6 hrs 54 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.06 %
+YAML              6 hrs 14 mins   ██████░░░░░░░░░░░░░░░░░░░   24.45 %
+TOML              1 hr 26 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+TypeScript        1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
 ```
 
 <!--END_SECTION:waka-->
