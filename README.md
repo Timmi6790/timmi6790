@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 February 2024 - To: 22 February 2024
+From: 16 February 2024 - To: 23 February 2024
 
-Total Time: 29 hrs 42 mins
+Total Time: 32 hrs 45 mins
 
-Java             24 hrs 11 mins  ████████████████████▒░░░░   81.46 %
-XML              2 hrs 3 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
-YAML             1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
-Markdown         34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-Kotlin           33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+Java             24 hrs 47 mins  ███████████████████░░░░░░   75.65 %
+XML              3 hrs 16 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
+Kotlin           1 hr 27 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
+YAML             57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+Markdown         44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
 ```
 
 <!--END_SECTION:waka-->
