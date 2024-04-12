@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 April 2024 - To: 09 April 2024
+From: 04 April 2024 - To: 11 April 2024
 
-Total Time: 18 hrs 31 mins
+Total Time: 20 hrs 7 mins
 
-Java              15 hrs 16 mins  ████████████████████▓░░░░   82.43 %
-Kotlin            1 hr 28 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
-Properties        20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-XML               13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-Docker            12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Java              16 hrs 48 mins  █████████████████████░░░░   83.51 %
+Kotlin            1 hr 29 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+Properties        18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+GitIgnore file    14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+Docker            12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 ```
 
 <!--END_SECTION:waka-->
