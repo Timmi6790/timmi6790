@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 May 2024 - To: 18 May 2024
+From: 12 May 2024 - To: 19 May 2024
 
-Total Time: 21 hrs 12 mins
+Total Time: 18 hrs 34 mins
 
-Java             18 hrs 25 mins  █████████████████████▓░░░   86.88 %
-TypeScript       2 hrs           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
-Kotlin           14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-JavaScript       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-Diff/Patch       8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Java             16 hrs 30 mins  ██████████████████████▒░░   88.88 %
+TypeScript       1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
+Kotlin           14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+JavaScript       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Diff/Patch       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
 
 <!--END_SECTION:waka-->
