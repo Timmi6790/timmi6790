@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 June 2024 - To: 25 June 2024
+From: 19 June 2024 - To: 26 June 2024
 
-Total Time: 15 hrs 22 mins
+Total Time: 12 hrs 12 mins
 
-Java              10 hrs 57 mins  █████████████████▓░░░░░░░   71.30 %
-Kotlin            1 hr 18 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
-XML               59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
-YAML              56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
-Diff/Patch        20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+Java              6 hrs 30 mins   █████████████▒░░░░░░░░░░░   53.31 %
+YAML              3 hrs 4 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.12 %
+Kotlin            1 hr 11 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 %
+TOML              20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+Diff/Patch        20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
 ```
 
 <!--END_SECTION:waka-->
