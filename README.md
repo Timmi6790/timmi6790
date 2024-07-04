@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 June 2024 - To: 01 July 2024
+From: 25 June 2024 - To: 02 July 2024
 
-Total Time: 19 hrs 12 mins
+Total Time: 19 hrs 40 mins
 
-Java              9 hrs 31 mins   ████████████▒░░░░░░░░░░░░   49.63 %
-YAML              8 hrs           ██████████▒░░░░░░░░░░░░░░   41.67 %
-Docker            39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
-Java Properties   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-LOMBOK_CONFIG     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Java              9 hrs 55 mins   ████████████▓░░░░░░░░░░░░   50.47 %
+YAML              8 hrs           ██████████░░░░░░░░░░░░░░░   40.66 %
+Docker            39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+Java Properties   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+LOMBOK_CONFIG     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 ```
 
 <!--END_SECTION:waka-->
