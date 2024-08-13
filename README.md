@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 August 2024 - To: 10 August 2024
+From: 04 August 2024 - To: 11 August 2024
 
-Total Time: 26 hrs 38 mins
+Total Time: 26 hrs 54 mins
 
-Java              23 hrs 13 mins  █████████████████████▓░░░   87.15 %
-YAML              48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
-Java Properties   48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
-Properties        26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-XML               23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Java              22 hrs 51 mins  █████████████████████▒░░░   84.95 %
+Java Properties   1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+YAML              53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+Properties        29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+XML               23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 ```
 
 <!--END_SECTION:waka-->
