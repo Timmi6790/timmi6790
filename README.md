@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 August 2024 - To: 19 August 2024
+From: 13 August 2024 - To: 20 August 2024
 
-Total Time: 18 hrs 37 mins
+Total Time: 15 hrs 41 mins
 
-Java              14 hrs 34 mins  ███████████████████▓░░░░░   78.20 %
-Kotlin            1 hr 53 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 %
-TOML              45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-Text              19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-Java Properties   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+Java              11 hrs 55 mins  ███████████████████░░░░░░   75.98 %
+Kotlin            1 hr 53 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.10 %
+TOML              45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
+Text              19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+Markdown          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
 ```
 
 <!--END_SECTION:waka-->
