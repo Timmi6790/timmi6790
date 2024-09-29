@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 September 2024 - To: 26 September 2024
+From: 20 September 2024 - To: 27 September 2024
 
-Total Time: 13 hrs 20 mins
+Total Time: 9 hrs 36 mins
 
-Java              10 hrs 45 mins  ████████████████████░░░░░   80.57 %
-Rust              1 hr            ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
-Kotlin            34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
-TOML              20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-Properties        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Java            7 hrs 12 mins   ██████████████████▓░░░░░░   75.06 %
+Rust            1 hr            ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 %
+Kotlin          34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
+TOML            20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+YAML            12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
 ```
 
 <!--END_SECTION:waka-->
