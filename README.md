@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 November 2024 - To: 11 November 2024
+From: 05 November 2024 - To: 12 November 2024
 
-Total Time: 17 hrs 43 mins
+Total Time: 18 hrs 25 mins
 
-Java                9 hrs 53 mins   ██████████████░░░░░░░░░░░   55.83 %
-Docker              2 hrs 11 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.39 %
-XML                 1 hr 22 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
-TOML                1 hr 17 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
-YAML                54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
+Java                11 hrs 25 mins  ███████████████▓░░░░░░░░░   62.02 %
+Docker              2 hrs 10 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
+TOML                1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
+Rust                50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+YAML                47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
 ```
 
 <!--END_SECTION:waka-->
