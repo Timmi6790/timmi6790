@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 December 2024 - To: 08 December 2024
+From: 03 December 2024 - To: 10 December 2024
 
-Total Time: 19 hrs 44 mins
+Total Time: 20 hrs 17 mins
 
-Java              17 hrs 52 mins  ██████████████████████▓░░   90.53 %
-XML               1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
-Protocol Buffer   19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-Properties        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-protobuf          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Java              18 hrs 15 mins  ██████████████████████▒░░   89.97 %
+XML               1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+Protocol Buffer   19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+Properties        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+protobuf          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
