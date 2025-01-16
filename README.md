@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 January 2025 - To: 13 January 2025
+From: 07 January 2025 - To: 14 January 2025
 
-Total Time: 30 hrs 54 mins
+Total Time: 24 hrs 46 mins
 
-Java              18 hrs 52 mins  ███████████████▒░░░░░░░░░   61.05 %
-YAML              5 hrs 55 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.14 %
-XML               1 hr 36 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
-Bash              59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
-Kotlin            55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+Java              13 hrs 23 mins  █████████████▓░░░░░░░░░░░   54.02 %
+YAML              5 hrs 50 mins   ██████░░░░░░░░░░░░░░░░░░░   23.60 %
+XML               1 hr 19 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
+Bash              59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+Kotlin            50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
 ```
 
 <!--END_SECTION:waka-->
