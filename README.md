@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 January 2025 - To: 24 January 2025
+From: 18 January 2025 - To: 25 January 2025
 
-Total Time: 25 hrs 21 mins
+Total Time: 23 hrs 9 mins
 
-Java              18 hrs 53 mins  ██████████████████▓░░░░░░   74.50 %
-Kotlin            2 hrs 34 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
-Docker            54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-textmate          44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
-YAML              42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+Java              18 hrs 51 mins  ████████████████████▒░░░░   81.40 %
+Kotlin            2 hrs 14 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 %
+textmate          37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+GitIgnore file    18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Diff              17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
 ```
 
 <!--END_SECTION:waka-->
