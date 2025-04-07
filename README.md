@@ -40,14 +40,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 March 2025 - To: 04 April 2025
+From: 29 March 2025 - To: 05 April 2025
 
 Total Time: 20 hrs 39 mins
 
-Java              17 hrs 36 mins  █████████████████████▒░░░   85.25 %
+Java              17 hrs 24 mins  █████████████████████░░░░   84.28 %
 Kotlin            1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+TOML              31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
 Properties        30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-TOML              26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
 Text              26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
 ```
 
