@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 April 2025 - To: 25 April 2025
+From: 19 April 2025 - To: 26 April 2025
 
-Total Time: 19 hrs 37 mins
+Total Time: 19 hrs 43 mins
 
-Java              17 hrs 15 mins  ██████████████████████░░░   87.89 %
-XML               43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
-Protocol Buffer   33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
-protobuf          26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
-YAML              13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Java              17 hrs 9 mins   █████████████████████▓░░░   86.99 %
+XML               43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+Protocol Buffer   31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+protobuf          26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+YAML              21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
 ```
 
 <!--END_SECTION:waka-->
