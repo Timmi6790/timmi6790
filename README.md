@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 May 2025 - To: 09 May 2025
+From: 03 May 2025 - To: 10 May 2025
 
-Total Time: 17 hrs 38 mins
+Total Time: 15 hrs 17 mins
 
-Java              16 hrs 31 mins  ███████████████████████▒░   93.66 %
-JSON              29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-Kotlin            11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-XML               6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-Properties        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Java              14 hrs 16 mins  ███████████████████████▒░   93.32 %
+JSON              29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+Kotlin            10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+XML               6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Properties        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->
