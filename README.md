@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 May 2025 - To: 13 May 2025
+From: 07 May 2025 - To: 14 May 2025
 
-Total Time: 19 hrs 50 mins
+Total Time: 21 hrs 1 min
 
-Java              19 hrs 5 mins   ████████████████████████░   96.17 %
-Kotlin            28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
-XML               8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-Properties        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-Java Properties   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Java              20 hrs 9 mins   ████████████████████████░   95.85 %
+Kotlin            28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+Rust              10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Properties        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+XML               2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
