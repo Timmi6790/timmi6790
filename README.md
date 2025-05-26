@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 May 2025 - To: 23 May 2025
+From: 17 May 2025 - To: 24 May 2025
 
-Total Time: 11 hrs 43 mins
+Total Time: 14 hrs 46 mins
 
-Java              10 hrs 40 mins  ██████████████████████▓░░   91.00 %
-TOML              16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
-Properties        15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-XML               10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-YAML              9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Java              11 hrs 21 mins  ███████████████████▒░░░░░   76.89 %
+YAML              1 hr 9 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
+Shell Script      38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+Docker            29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+XML               19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
 ```
 
 <!--END_SECTION:waka-->
