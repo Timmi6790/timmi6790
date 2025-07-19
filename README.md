@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 July 2025 - To: 16 July 2025
+From: 10 July 2025 - To: 17 July 2025
 
-Total Time: 24 hrs 27 mins
+Total Time: 19 hrs 51 mins
 
-Java              21 hrs 53 mins  ██████████████████████▒░░   89.49 %
-Properties        1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
-Java Properties   36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
-Kotlin            23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-YAML              13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Java              17 hrs 21 mins  ██████████████████████░░░   87.43 %
+Properties        1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
+Java Properties   36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+Kotlin            20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+YAML              12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 ```
 
 <!--END_SECTION:waka-->
