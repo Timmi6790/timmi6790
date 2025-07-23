@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 July 2025 - To: 20 July 2025
+From: 14 July 2025 - To: 21 July 2025
 
-Total Time: 32 hrs 11 mins
+Total Time: 31 hrs 23 mins
 
-Java              28 hrs 10 mins  ██████████████████████░░░   87.55 %
-Properties        1 hr 49 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
-Java Properties   1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
-XML               21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-Protocol Buffer   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Java              27 hrs 10 mins  █████████████████████▓░░░   86.56 %
+Properties        1 hr 54 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
+Java Properties   1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+XML               23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+Protocol Buffer   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 
 <!--END_SECTION:waka-->
