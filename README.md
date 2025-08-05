@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 July 2025 - To: 02 August 2025
+From: 27 July 2025 - To: 03 August 2025
 
-Total Time: 22 hrs 38 mins
+Total Time: 20 hrs 14 mins
 
-Java              20 hrs 54 mins  ███████████████████████░░   92.34 %
-Properties        22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-Java Properties   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-Markdown          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-JSON              13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Java              19 hrs 4 mins   ███████████████████████▓░   94.27 %
+Java Properties   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+JSON              13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+Kotlin            12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+TOML              9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 ```
 
 <!--END_SECTION:waka-->
