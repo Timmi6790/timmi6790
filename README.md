@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 August 2025 - To: 13 August 2025
+From: 07 August 2025 - To: 14 August 2025
 
-Total Time: 17 hrs
+Total Time: 14 hrs 47 mins
 
-Java             14 hrs 41 mins  █████████████████████▓░░░   86.41 %
-Docker           1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
-XML              24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
-Kotlin           12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-YAML             11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+Java              11 hrs 54 mins  ████████████████████░░░░░   80.50 %
+Docker            1 hr 12 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
+Kotlin            29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+XML               24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+TOML              18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
 ```
 
 <!--END_SECTION:waka-->
