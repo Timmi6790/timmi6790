@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 August 2025 - To: 05 September 2025
+From: 30 August 2025 - To: 06 September 2025
 
-Total Time: 14 hrs 44 mins
+Total Time: 14 hrs 26 mins
 
-Java              13 hrs 33 mins  ███████████████████████░░   91.95 %
-YAML              28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
-SmartyConfig      15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-TOML              13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-Kotlin            4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Java              13 hrs 21 mins  ███████████████████████░░   92.53 %
+YAML              28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+SmartyConfig      15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+TOML              10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Properties        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
