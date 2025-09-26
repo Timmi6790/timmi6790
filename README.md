@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 September 2025 - To: 22 September 2025
+From: 16 September 2025 - To: 23 September 2025
 
-Total Time: 13 hrs 30 mins
+Total Time: 13 hrs 37 mins
 
-Java              13 hrs 12 mins  ████████████████████████▒   97.77 %
-YAML              11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Java              13 hrs 30 mins  ████████████████████████▓   99.13 %
 Markdown          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 Kotlin            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 TOML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Bat               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
