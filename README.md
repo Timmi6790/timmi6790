@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 September 2025 - To: 05 October 2025
+From: 29 September 2025 - To: 06 October 2025
 
-Total Time: 13 hrs 1 min
+Total Time: 10 hrs 8 mins
 
-Java              11 hrs 48 mins  ██████████████████████▓░░   90.61 %
-YAML              40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
-Java Properties   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-Properties        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-Text              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Java              9 hrs 12 mins   ██████████████████████▓░░   90.79 %
+YAML              34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+Properties        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+Java Properties   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Docker            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
