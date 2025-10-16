@@ -40,13 +40,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 October 2025 - To: 13 October 2025
+From: 08 October 2025 - To: 15 October 2025
 
-Total Time: 3 mins
+Total Time: 12 mins
 
-Java              3 mins          █████████████████████████   99.99 %
-Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+YAML   10 mins         ██████████████████████░░░   88.08 %
+Rust   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+TOML   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+JSON   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
 ```
 
 <!--END_SECTION:waka-->
