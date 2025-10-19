@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 October 2025 - To: 16 October 2025
+From: 10 October 2025 - To: 17 October 2025
 
-Total Time: 1 hr 25 mins
+Total Time: 3 hrs 2 mins
 
-YAML           1 hr 24 mins    ████████████████████████▓   98.06 %
-Rust           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-TOML           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-JSON           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-Docker         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+YAML             1 hr 24 mins    ███████████▓░░░░░░░░░░░░░   46.09 %
+Rust             1 hr 19 mins    ███████████░░░░░░░░░░░░░░   43.56 %
+TOML             13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
+Docker           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+HTML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
