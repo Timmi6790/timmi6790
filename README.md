@@ -40,13 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 October 2025 - To: 24 October 2025
+From: 18 October 2025 - To: 25 October 2025
 
-Total Time: 37 mins
+Total Time: 1 hr 55 mins
 
-Rust             33 mins         ██████████████████████▒░░   89.92 %
-TOML             3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
-GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+Rust             56 mins         ████████████▒░░░░░░░░░░░░   49.11 %
+Markdown         38 mins         ████████▒░░░░░░░░░░░░░░░░   33.14 %
+YAML             12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.57 %
+TOML             7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
