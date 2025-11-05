@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 October 2025 - To: 02 November 2025
+From: 27 October 2025 - To: 03 November 2025
 
-Total Time: 13 hrs 37 mins
+Total Time: 8 hrs 42 mins
 
-YAML                 7 hrs 57 mins   ██████████████▓░░░░░░░░░░   58.38 %
-Rust                 2 hrs 16 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.63 %
-Markdown             1 hr 17 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 %
-Docker               37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
-JSON                 30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+YAML                 5 hrs 39 mins   ████████████████▒░░░░░░░░   64.96 %
+Rust                 1 hr 16 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.57 %
+Markdown             51 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
+Helm TEXT template   21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
+JSON                 10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
 ```
 
 <!--END_SECTION:waka-->
