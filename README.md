@@ -40,15 +40,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 October 2025 - To: 05 November 2025
+From: 30 October 2025 - To: 06 November 2025
 
-Total Time: 6 hrs 35 mins
+Total Time: 0 secs
 
-YAML                 5 hrs 39 mins   █████████████████████▒░░░   85.93 %
-Helm TEXT template   21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
-JSON                 9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-Smarty               8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-Markdown             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
