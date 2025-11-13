@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 November 2025 - To: 10 November 2025
+From: 04 November 2025 - To: 11 November 2025
 
-Total Time: 18 hrs 47 mins
+Total Time: 25 hrs 44 mins
 
-TypeScript            6 hrs 55 mins   █████████▒░░░░░░░░░░░░░░░   36.81 %
-JavaScript            2 hrs           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.71 %
-YAML                  1 hr 57 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 %
-JSON                  1 hr 38 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
-Docker                1 hr 36 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
+TypeScript            11 hrs 43 mins  ███████████▒░░░░░░░░░░░░░   45.54 %
+JSON                  2 hrs 16 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
+YAML                  2 hrs 5 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
+JavaScript            2 hrs 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
+Rust                  2 hrs 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
 ```
 
 <!--END_SECTION:waka-->
