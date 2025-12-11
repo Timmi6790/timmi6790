@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tim</h1>
 
 - 🌱 I’m currently learning **rust**, **next.js**
-- 👨‍💻 All of my projects are available at [https://github.com/Timmi6790](https://github.com/Timmi6790)
+- 👨‍💻 All of my projects are available at [https://github.com/timschoenle](https://github.com/timschoenle)
 - 💬 Ask me about **java**
-- 📫 How to reach me **contact@timmi6790.de**
+- 📫 How to reach me **contact@tim-schoenle.de**
 
 ### 🛠 Tech Stack
 ![Java](http://img.shields.io/badge/-Java-white?style=flat-square&logo=Java&logoColor=black)
