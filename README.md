@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 December 2025 - To: 13 December 2025
+From: 07 December 2025 - To: 14 December 2025
 
-Total Time: 22 hrs 1 min
+Total Time: 21 hrs 26 mins
 
-TypeScript           8 hrs 4 mins    █████████▒░░░░░░░░░░░░░░░   36.67 %
-JSON                 3 hrs 44 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.00 %
-YAML                 2 hrs 47 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.67 %
-Java                 1 hr 57 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
-Kotlin               1 hr 23 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+TypeScript           6 hrs 47 mins   ████████░░░░░░░░░░░░░░░░░   31.70 %
+YAML                 4 hrs 37 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.60 %
+JSON                 3 hrs 6 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.49 %
+Java                 1 hr 57 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
+Kotlin               1 hr 23 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
 ```
 
 <!--END_SECTION:waka-->
